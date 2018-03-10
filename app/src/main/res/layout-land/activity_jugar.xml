@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_height="match_parent"
+    android:background="@drawable/imgjugarland"
+    tools:context="com.example.bolivar.magic8ballx.JugarActivity">
+
+    <ImageView
+        android:id="@+id/imagejugar"
+        android:layout_width="561dp"
+        android:layout_height="287dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="50dp"
+        android:foregroundGravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bolagris" />
+
+    <TextView
+        android:id="@+id/iniciopreguntatext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/makepregunta_text_text"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imagejugar"
+        app:layout_constraintEnd_toEndOf="@+id/imagejugar"
+        app:layout_constraintStart_toStartOf="@+id/imagejugar"
+        app:layout_constraintTop_toTopOf="@+id/imagejugar" />
+
+    <Button
+        android:id="@+id/boton_nosensor"
+        android:background="@color/transp"
+        android:layout_width="wrap_content"
+        android:layout_height="96dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imagejugar"
+        app:layout_constraintEnd_toEndOf="@+id/imagejugar"
+        app:layout_constraintStart_toStartOf="@+id/imagejugar"
+        app:layout_constraintTop_toTopOf="@+id/imagejugar" />
+
+</android.support.constraint.ConstraintLayout>

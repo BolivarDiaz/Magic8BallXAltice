@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:clickable="false"
+
+    android:gravity="center"
+    tools:context="com.example.bolivar.magic8ballx.MainActivity">
+
+    <TextView
+        android:id="@+id/textportada"
+        android:layout_width="261dp"
+        android:layout_height="68dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="45dp"
+        android:gravity="center"
+        android:text="@string/portada_text_text"
+        android:textColor="@color/azul"
+
+        android:textSize="45sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/botonmenu1"
+        style="@style/MainMenuSyle"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="60dp"
+        android:background="@color/transp"
+        android:fitsSystemWindows="false"
+        android:soundEffectsEnabled="false"
+        android:text="@string/inicio_texto_button"
+        android:textColor="@color/white"
+        android:theme="@style/AppTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textportada" />
+
+    <Button
+        android:id="@+id/botonmenu2"
+        style="@style/MainMenuSyle"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="216dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="16dp"
+        android:soundEffectsEnabled="false"
+        android:background="@color/transp"
+        android:text="@string/config_text_button"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/botonmenu1" />
+
+
+</android.support.constraint.ConstraintLayout>

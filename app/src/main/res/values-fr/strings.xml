@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic 8 Ball X</string>
+    <string name="inicio_texto_button">Jouer</string>
+    <string name="config_text_button">Configuration</string>
+    <string name="portada_text_text">Magic Ball X</string>
+    <string name="makepregunta_text_text">Posez votre question</string>
+    <string name="desactivarsound_text">Son</string>
+    <string name="desactivarsensor_text">Capteur</string>
+    <string name="activado">Activé</string>
+    <string name="desactivado">Désactivé</string>
+    <string name="toast_consensor">Secouez l'appareil</string>
+    <string name="toast_sinsensor">Appuyez sur le centre de la balle</string>
+    <string name="respuesta1">Oui</string>
+    <string name="respuesta2">Non</string>
+    <string name="respuesta3">Peut etre</string>
+    <string name="respuesta4">Jamais</string>
+    <string name="respuesta5">Définitivement pas!</string>
+    <string name="respuesta6">Demander à nouveau</string>
+    <string name="respuesta7">Sérieusement?</string>
+    <string name="respuesta8">Je ne crois pas</string>
+    <string name="respuesta9">Bien sur</string>
+    <string name="respuesta10">Ne valez pas la peine de savoir</string>
+    <string name="respuesta11">Quoi?</string>
+    <string name="respuesta12">Sans doute</string>
+    <string name="respuesta13">Ne vous convient pas de savoir</string>
+    <string name="respuesta14">Ne comptez pas là dessus</string>
+    <string name="sobre_text">Sur:</string>
+    <string name="autor_text">Développeur: Bolivar Diaz</string>
+
+
+</resources>

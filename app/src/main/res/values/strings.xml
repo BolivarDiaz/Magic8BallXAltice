@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Magic 8 Ball X</string>
+    <string name="inicio_texto_button">Iniciar</string>
+    <string name="config_text_button">Configuracion</string>
+    <string name="portada_text_text">Magic Ball X</string>
+    <string name="makepregunta_text_text">Haz tu pregunta</string>
+    <string name="desactivarsound_text">Sonido</string>
+    <string name="desactivarsensor_text">Sensor</string>
+    <string name="activado">Activado</string>
+    <string name="desactivado">Desactivado</string>
+    <string name="toast_consensor">Agita el dispositivo</string>
+    <string name="toast_sinsensor">Pulsa el centro de la bola</string>
+    <string name="respuesta1">Si</string>
+    <string name="respuesta2">No</string>
+    <string name="respuesta3">Posiblemente</string>
+    <string name="respuesta4">Tal vez</string>
+    <string name="respuesta5">Definitivamente no!</string>
+    <string name="respuesta6">Pregunta otra vez</string>
+    <string name="respuesta7">En serio?</string>
+    <string name="respuesta8">No creo</string>
+    <string name="respuesta9">Claro que si!</string>
+    <string name="respuesta10">No eres digno de saber</string>
+    <string name="respuesta11">Que?</string>
+    <string name="respuesta12">Sin duda</string>
+    <string name="respuesta13">No te conviene saber</string>
+    <string name="respuesta14">No cuentes con eso</string>
+    <string name="sobre_text">Info:</string>
+    <string name="autor_text">Desarrollador: Bolivar Diaz</string>
+
+
+</resources>
