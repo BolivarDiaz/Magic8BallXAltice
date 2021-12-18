@@ -9,7 +9,7 @@
     <string name="desactivarsensor_text">Capteur</string>
     <string name="activado">Activé</string>
     <string name="desactivado">Désactivé</string>
-    <string name="toast_consensor">Secouez l'appareil</string>
+    <string name="toast_consensor">Secouez</string>
     <string name="toast_sinsensor">Appuyez sur le centre de la balle</string>
     <string name="respuesta1">Oui</string>
     <string name="respuesta2">Non</string>
@@ -25,8 +25,10 @@
     <string name="respuesta12">Sans doute</string>
     <string name="respuesta13">Ne vous convient pas de savoir</string>
     <string name="respuesta14">Ne comptez pas là dessus</string>
+    <string name="respuesta25">Hola tu</string>
     <string name="sobre_text">Sur:</string>
     <string name="autor_text">Développeur: Bolivar Diaz</string>
-
+    <string name="start_speech_prompt">Preguntame algo...</string>
+    <string name="dumb_question1">Hola</string>
 
 </resources>

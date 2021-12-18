@@ -24,8 +24,11 @@
     <string name="respuesta12">Sin duda</string>
     <string name="respuesta13">No te conviene saber</string>
     <string name="respuesta14">No cuentes con eso</string>
+    <string name="respuesta25">Hola tu</string>
     <string name="sobre_text">Info:</string>
     <string name="autor_text">Desarrollador: Bolivar Diaz</string>
+    <string name="start_speech_prompt">Preguntame algo...</string>
+    <string name="dumb_question1">Hola</string>
 
 
 </resources>

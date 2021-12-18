@@ -25,9 +25,10 @@
     <string name="respuesta12">Yea boy!</string>
     <string name="respuesta13">You should not know</string>
     <string name="respuesta14">Do not count on that</string>
+    <string name="respuesta25">Hi dude</string>
     <string name="sobre_text">About:</string>
     <string name="autor_text">Developer: Bolivar Diaz</string>
-
-
+    <string name="start_speech_prompt">Preguntame algo...</string>
+    <string name="dumb_question1">Hello</string>
 
 </resources>

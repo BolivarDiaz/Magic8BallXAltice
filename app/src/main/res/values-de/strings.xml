@@ -25,6 +25,9 @@
     <string name="respuesta12">Ohne Zweifel</string>
     <string name="respuesta13">Es passt nicht zu dir zu wissen</string>
     <string name="respuesta14">So wird es nicht sein</string>
+    <string name="respuesta25">Hola tu</string>
     <string name="sobre_text">Informationen:</string>
     <string name="autor_text">Entwickler: Bolivar Diaz</string>
+    <string name="start_speech_prompt">Preguntame algo...</string>
+    <string name="dumb_question1">Hola</string>
 </resources>
